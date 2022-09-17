@@ -1,4 +1,4 @@
-package java.fluxo;
+package fluxo;
 
 public class Fluxo {
 
